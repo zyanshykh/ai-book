@@ -1,41 +1,33 @@
-# Website
+# AI & Robotics Resources 🤖
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to my `ai-book` repository! Yeh mera personal collection hai jahan main AI, Machine Learning, aur Physical Humanoid Robotics se related notes, code, aur learning materials store karta hoon.
 
-## Installation
+## 📚 Overview
+Is repository ka main maqsad mere learning journey ko document karna aur resources ko organize karna hai. Yahan aapko Physical AI aur Robotics ke concepts ka structured breakdown milega.
 
-```bash
-yarn
-```
+## 🛠 Topics Covered
+- **Physical AI:** Robotics fundamentals and human-machine interaction.
+- **AI Algorithms:** Machine learning models and neural networks.
+- **Development Tools:** Best practices for AI development.
+- **Learning Roadmap:** Steps to master advanced robotics.
 
-## Local Development
+## 🚀 Getting Started
+Aap is repository ke contents ko as a reference guide use kar sakte hain:
+1. `Clone` this repository: `git clone https://github.com/zyanshykh/ai-book.git`
+2. Check the specific folders for notes and code examples.
+3. Feel free to explore and learn.
 
-```bash
-yarn start
-```
+## 💻 Tech Stack
+- **Languages:** Python
+- **Focus:** AI, Robotics, Data Science
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 🤝 Contributing
+Agar aapke paas is repo ke liye koi sudhar (suggestions) ya additional resources hain, toh please ek `Pull Request` create karein.
 
-## Build
+## 👤 Author
+**Zayan Sheikh**
+- Portfolio: [Your Website Link if any]
+- GitHub: [@zyanshykh](https://github.com/zyanshykh)
 
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
+*Developed by Zayyan.*
